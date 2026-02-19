@@ -73,8 +73,8 @@
 | 🔹 Project | 🛠️ Stack | 📄 Description | 🔗 |
 |:---|:---|:---|:---:|
 | **WiFi File Manager** | Python · Flask · JS | Secure web-based file transfer over local WiFi. Supports 10GB uploads via streaming. | [![Repo](https://img.shields.io/badge/Repo-0c1220?style=flat-square&logo=github&logoColor=00f5c4)](https://github.com/RahulKeshri1/Wifi-File-Manager) |
-| **LegalPapers Platform** | Next.js · Kotlin · Firebase | Scalable legal services platform with document generation & real-time consultations. | [![Live](https://img.shields.io/badge/Live-0c1220?style=flat-square&logo=googleplay&logoColor=00f5c4)](https://play.google.com/store/apps/details?id=com.legalpapersin.onlinedocuments&hl=en_IN) |
-| **Academic Affairs Portal** | WordPress · JS · SEO | Official DU portal serving 100,000+ students with structured academic content. | [![Live](https://img.shields.io/badge/Live-0c1220?style=flat-square&logo=googlechrome&logoColor=00f5c4)](https://academicaffairs.du.ac.in) |
+| **LegalPapers Platform** | Next.js · Kotlin · Firebase · MySQL | Scalable legal services platform with document generation & real-time consultations. | [![Live](https://img.shields.io/badge/Live-0c1220?style=flat-square&logo=googleplay&logoColor=00f5c4)](https://play.google.com/store/apps/details?id=com.legalpapersin.onlinedocuments&hl=en_IN) |
+| **Academic Affairs Portal** | WordPress · CSS · JS · SEO | Official DU portal serving 100,000+ students with structured academic content. | [![Live](https://img.shields.io/badge/Live-0c1220?style=flat-square&logo=googlechrome&logoColor=00f5c4)](https://academicaffairs.du.ac.in) |
 
 </div>
 
@@ -105,7 +105,6 @@
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=RahulKeshri1&theme=merko&hide_border=true&background=050810&ring=00f5c4&fire=ff6b6b&currStreakLabel=00f5c4" width="48%" />
 
-<br/><br/>
 </div>
 
 ---
