@@ -100,11 +100,8 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=RahulKeshri1&theme=merko&hide_border=true&background=050810&ring=00f5c4&fire=ff6b6b&currStreakLabel=00f5c4" width="48%" />
-
+<img src="https://streak-stats.demolab.com?user=RahulKeshri1&theme=merko&hide_border=true&background=050810&ring=00f5c4&fire=ff6b6b&currStreakLabel=00f5c4" width="48%" />
 </div>
 
 ---
