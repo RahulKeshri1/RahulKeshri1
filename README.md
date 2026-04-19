@@ -72,9 +72,11 @@
 
 | 🔹 Project | 🛠️ Stack | 📄 Description | 🔗 |
 |:---|:---|:---|:---:|
+| PillPal | React · Node.js · Firebase · Flutter | Intelligent elderly healthcare platform starting with easy medication scheduling, voice reminders, and real-time caregiver monitoring. Evolving into a full ecosystem with fall detection (ambulance alerts), AI health consultancy, and telehealth integration. | [![Repo](https://img.shields.io/badge/Repo-0c1220?style=flat-square&logo=github&logoColor=00f5c4)](https://github.com/RahulKeshri1/PillPal) |
+| PayU | React Native · JavaScript · AsyncStorage | Offline-first personal finance tracker with expense categorisation, budget alerts, and visual spending summaries — built for zero-latency, privacy-first local data handling with no backend dependency. |  [![Repo](https://img.shields.io/badge/Repo-0c1220?style=flat-square&logo=github&logoColor=00f5c4)](https://github.com/RahulKeshri1/PayU) |
 | **WiFi File Manager** | Python · Flask · JS | Secure web-based file transfer over local WiFi. Supports 10GB uploads via streaming. | [![Repo](https://img.shields.io/badge/Repo-0c1220?style=flat-square&logo=github&logoColor=00f5c4)](https://github.com/RahulKeshri1/Wifi-File-Manager) |
 | **LegalPapers Platform** | Next.js · Kotlin · Firebase · MySQL | Scalable legal services platform with document generation & real-time consultations. | [![Live](https://img.shields.io/badge/Live-0c1220?style=flat-square&logo=googleplay&logoColor=00f5c4)](https://play.google.com/store/apps/details?id=com.legalpapersin.onlinedocuments&hl=en_IN) |
-| **Academic Affairs Portal** | WordPress · CSS · JS · SEO | Official DU portal serving 100,000+ students with structured academic content. | [![Live](https://img.shields.io/badge/Live-0c1220?style=flat-square&logo=googlechrome&logoColor=00f5c4)](https://academicaffairs.du.ac.in) |
+| **Academic Affairs Website** | WordPress · CSS · JS · SEO | Official DU portal serving 100,000+ students with structured academic content. | [![Live](https://img.shields.io/badge/Live-0c1220?style=flat-square&logo=googlechrome&logoColor=00f5c4)](https://academicaffairs.du.ac.in) |
 
 </div>
 
