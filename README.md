@@ -106,7 +106,7 @@
 ## 💼 Experience
 
 **🧑‍💻 SDE Intern — ScriptAI (LawsForum)**
-`Sep 2024 – Present` · New Delhi, India
+`Sep 2024 – Aug 2026` · New Delhi, India
 
 - Engineered the **legalpapers.in** mobile app in Kotlin + Firebase + Agora with real-time chat, audio & video consultations
 - Built the web platform with React.js, Next.js, MySQL — secure architecture, scalable backend
@@ -114,7 +114,7 @@
 - Implemented SEO strategies increasing organic traffic by **30%**
 
 **🏛️ VCIS Summer Intern — University of Delhi**
-`Jun 2025 – Present` · New Delhi, India
+`Jun 2025 – July 2026` · New Delhi, India
 
 - Deployed the official academic portal serving **100,000+ UG, PG, and PhD students**
 - Improved mobile responsiveness by **20%** and enhanced discoverability for 50,000+ active users
